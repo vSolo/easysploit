@@ -6,7 +6,9 @@ echo "rm -rf /usr/local/sbin/easysploit && echo -e '\e[1;31m
 
 \e[0m' && rm uninstaller.sh " > uninstaller.sh 
 
-
+echo "hello world"
+## 告知用户当前时间
+echo "data "
 
 echo -e '\e[1;33m
      ______                 _____       __      _ __ 
